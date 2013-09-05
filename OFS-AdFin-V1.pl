@@ -2,8 +2,7 @@
 
 ##
 #  By nu11-v0!d
-#  Admin Control Panel Finder a.k.a "OFS|AdFin".
-#    
+#  OpenFire AdminFinder 
 #  @OpenFire Technologies
 #  Home: www.openfire-security.net
 ##
