@@ -28,11 +28,11 @@ It is the right now in Beta Stage. so do check and give me the feedback.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 How to Run?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
->> Install Perl 
->> Type on the commandline (Terminal For linux && CMD for windows)
->> Go to the dir where the file present.
->> On the Terminal Type : "perl OFS-AdFin-V1.pl"
->> It will execute !! :)
+>>1. Install Perl. 
+>>2. Type on the commandline (Terminal For linux && CMD for windows)
+>>3. Go to the dir where the file present.
+>>4. On the Terminal Type : "perl OpenFire_AdminFinder.pl"
+>>5. It will execute !! :)
 
 
 For any assintance and feedback mail me : null.void.hacker[at]gmail[DOT]com
