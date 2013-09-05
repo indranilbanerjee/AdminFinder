@@ -2,7 +2,7 @@
 
 ##
 #  By nu11-v0!d
-#  OpenFire AdminFinder 
+#  OpenFire AdminFinder Version 1 (beta)
 #  @OpenFire Technologies
 #  Home: www.openfire-security.net
 ##
@@ -18,7 +18,7 @@ print "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 print "          \n                 +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+
                  |o||p||e||n||f||i||r||e| |s||e||c||u||r||i||t||y|
                  +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+\n";
-print "    OpenFire Technologies ||Admin Control Panel Finder A.K.A (OFS|AdFin) v-1 \n";
+print "     OpenFire Technologies ||OpenFire AdminFinder Version 1 (Beta)\n";
 print "                    opyright @ OpenFire Technologies\n";
 print "                           Coded By nu11-v0!d\n" ;
 print "                     website:www.openfire-security.net\n\n";
