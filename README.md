@@ -1,13 +1,13 @@
-==========================================
-OpenFire-Admin-Finder--OFS-AdFin-V1 (Beta)
-==========================================
+====================
+OpenFire AdminFinder
+====================
 
                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                                   
                                   +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+
                                   |o||p||e||n||f||i||r||e| |s||e||c||u||r||i||t||y|
                                   +-++-++-++-++-++-++-++-+ +-++-++-++-++-++-++-++-+
-                     OpenFire Technologies ||Admin Control Panel Finder A.K.A (OFS||AdFin) v-1 
+                          OpenFire Technologies || OpenFire AdminFinder Version 1 (beta) 
                                           Copyright @ OpenFire Technologies
                                                Coded By nu11-v0!d
                                           Website:www.openfire-security.net
